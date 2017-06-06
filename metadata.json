@@ -1,0 +1,12 @@
+{
+  "name": "rdev5-puppetmodule",
+  "version": "1.0.0",
+  "author": "Matt Borja",
+  "license": "MIT",
+  "summary": "Installs, configures, and manages the NTP service.",
+  "source": "https://github.com/puppetlabs/puppetlabs-ntp",
+  "dependencies": [
+    { "name":"puppetlabs/stdlib","version_requirement":">= 4.13.1 < 5.0.0" }
+  ],
+  "description": "Template for creating new Puppet modules"
+}
